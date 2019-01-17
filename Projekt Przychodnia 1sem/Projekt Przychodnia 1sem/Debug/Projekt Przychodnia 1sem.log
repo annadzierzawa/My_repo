@@ -1,0 +1,6 @@
+﻿  Functions.cpp
+c:\users\annad\source\repos\projekt przychodnia 1 sem\projekt przychodnia 1sem\projekt przychodnia 1sem\functions.cpp(25): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+c:\users\annad\source\repos\projekt przychodnia 1 sem\projekt przychodnia 1sem\projekt przychodnia 1sem\functions.cpp(31): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+c:\users\annad\source\repos\projekt przychodnia 1 sem\projekt przychodnia 1sem\projekt przychodnia 1sem\functions.cpp(40): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+c:\users\annad\source\repos\projekt przychodnia 1 sem\projekt przychodnia 1sem\projekt przychodnia 1sem\functions.cpp(43): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+  Projekt Przychodnia 1sem.vcxproj -> C:\Users\annad\source\repos\projekt Przychodnia 1 sem\Projekt Przychodnia 1sem\Debug\Projekt Przychodnia 1sem.exe
